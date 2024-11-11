@@ -1,5 +1,5 @@
 var images = [
-  "https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/384550897_837406841364525_3181255207537297905_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8IRtotjAlzIQ7kNvgFeR8vY&_nc_ht=scontent.fjsr6-1.fna&oh=00_AYArmnsYjZu1lgdCIr_lsqfPJT9JQPom3LJVyTuWjy6twA&oe=66C508D0",
+  "https://i.ibb.co/6wmx3cp/IMG-20220322-115919-397.jpg",
 ];
 
 //https://i.ibb.co/6wmx3cp/IMG-20220322-115919-397.jpg
